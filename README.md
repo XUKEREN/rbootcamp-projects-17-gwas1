@@ -9,9 +9,6 @@ tags:
 - GWAS
 - tidy
 categories: R
-output: 
-  html_document:
-    keep_md: true
 ---
 
 
