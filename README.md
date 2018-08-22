@@ -265,7 +265,7 @@ p <- ggplot(masterfile, aes(x=chr, y=-log10(p.value), text=text)) +
   )
 ggplotly(p, tooltip="text")
 ```
-see [here](http://xukeren.rbind.io/post/2018/08/19/rbootcamp-project-minigwas/) for the interactive graph
+## see [here](http://xukeren.rbind.io/post/2018/08/19/rbootcamp-project-minigwas/) for the interactive graph
 
 ***
 # References
